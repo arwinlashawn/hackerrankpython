@@ -1,2 +1,3 @@
-# hackerrankpython
-Solutions to HackerRank challenges
+# My Solutions to HackerRank questions
+* Solving Python questions for now. Might do more LeetCode instead.
+
